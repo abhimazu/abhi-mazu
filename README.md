@@ -1,7 +1,5 @@
 ### About
 
-Welcome to my new repository dedicated for AI/ML research and development!
-
 🔭 I'm very passionate about Artificial Intelligence, Deep Learning, Machine Learning, Natural Language Processing, Computer Vision and Time-series analytics. I have previously worked in the fields of Signal and Image Processing, Pattern Recognition, Autonomous Driving Solutions, Statistical Analysis, Reinforcement Learning, Generative AI, LLMs, Predictive Analytics and Object Detection. 
 
 💬 My aim is to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
@@ -10,7 +8,7 @@ Welcome to my new repository dedicated for AI/ML research and development!
 
 ### Bio
 
-👨🏻‍💻 Currently, I am building TransformerLab, an open source toolkit to train and evaluate LLMs. My primary skill is to convert POCs into production-grade systems. Previously, I was the Head of MLOps @ Binoloop and before that, I was part of the IOTG Customer Solutions and Developer Enabling group at Intel, where I specialized in designing AI applications and pipelines that optimize deployment for a wide range of applications including Natural Language Processing, Computer Vision and Time-series analytics. Throughout my career, I have worked on architecting various applications and frameworks that enables easy configuration and optimize performance.
+👨🏻‍💻 Currently, I am working on Industrolearn, an AI school + Studio concept, where learners get to work directly on client projects and hone their skills using AI. My primary skill is to convert POCs into production-grade systems. Previously, I was the Head of MLOps @ Binoloop and before that, I was part of the IOTG Customer Solutions and Developer Enabling group at Intel, where I specialized in designing AI applications and pipelines that optimize deployment for a wide range of applications including Natural Language Processing, Computer Vision and Time-series analytics. Throughout my career, I have worked on architecting various applications and frameworks that enables easy configuration and optimize performance.
 
 🌱 I'm currently pursuing an initiative "Industrodrome" that has projects related to AI, ML and Cloud Deployment along with aggregating research problems in the industry and helping learners to apply their learnings to solve real-world problems by contributing to open source community. 
 
